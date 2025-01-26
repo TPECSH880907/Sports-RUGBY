@@ -1,0 +1,57 @@
+.pacifico-regular {
+    font-family: "王漢宗中魏碑簡";
+    font-size: 50px;
+}
+
+.noto-sans-wancho-regular{
+    font-family: "辰宇落雁體 Thin Monospaced" ;
+}
+
+.animate__lightSpeedInLeft {
+    display: inline-block;
+    margin: 0 0.2rem;
+  
+    animation: bounce;
+    animation-duration: 3s; 
+}
+
+.animate__slideInRight {
+    display: inline-block;
+    margin: 0 0.2rem;
+  
+    animation: bounce;
+    animation-duration: 3s; 
+}
+
+.RUG{
+    margin-bottom: 200px; 
+    margin-left: 50px;
+    font-size: 100px;
+    color: black;
+}
+
+.QRD {
+    width: 400px;
+    height: 500px;
+    background: chocolate;
+}
+
+.HTC {
+    width: 1320px;
+    height: 500px;
+    background:silver;
+}
+
+.text-end p {
+    font-size: 40px;
+}
+
+.selector {
+    background: linear-gradient(40deg, #fff, #fff 50.5%, #0000FF 29.5%, #0000FF 30.5%, #fff 51.5%, #fff);
+}
+
+.GBG {
+    background-color: #fff;
+    width: 1200px; 
+    margin: 50px;
+}
